@@ -1,7 +1,7 @@
 # Backend
 This project is related with [this frontend project](https://github.com/Bernasss12/frontend-angular).
 
-This is the backend code I edned up with for the tutorial video series found [here](https://youtu.be/Gzk4cc8LTQs)
+This is the backend code I ended up with for the tutorial video series found [here](https://youtu.be/Gzk4cc8LTQs)
 
 ## Setup
 To set this up you will need to setup a database and define the connection info in the [`resources/application.properties`](https://github.com/Bernasss12/backend-spring-boot/blob/main/src/main/resources/application.properties) file.
